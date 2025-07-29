@@ -3,8 +3,8 @@ Laravel PHP Full Stack development
 …or create a new repository on the command line
 echo "# martins-church-app" >> README.md
 git init
-git add README.md
-git commit -m "first commit"
+git add .
+git commit -m "this the error corrected from signup.php"
 git branch -M main
 git remote add origin https://github.com/69-69/martins-church-app.git
 git push -u origin main
